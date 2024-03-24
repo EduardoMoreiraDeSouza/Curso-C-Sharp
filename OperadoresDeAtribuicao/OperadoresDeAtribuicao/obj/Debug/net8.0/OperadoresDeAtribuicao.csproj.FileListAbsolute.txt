@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.exe
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.deps.json
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.dll
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\net8.0\OperadoresDeAtribuicao.pdb
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.sourcelink.json
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.dll
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\refint\OperadoresDeAtribuicao.dll
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.pdb
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\OperadoresDeAtribuicao.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\net8.0\ref\OperadoresDeAtribuicao.dll

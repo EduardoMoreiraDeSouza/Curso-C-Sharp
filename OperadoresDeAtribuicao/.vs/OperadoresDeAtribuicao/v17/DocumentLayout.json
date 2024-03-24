@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\Curso-C-Sharp\\OperadoresDeAtribuicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{560D3F6D-6690-47F6-B917-281B7C538CC1}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|d:\\my projects\\curso-c-sharp\\operadoresdeatribuicao\\operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560D3F6D-6690-47F6-B917-281B7C538CC1}|OperadoresDeAtribuicao\\OperadoresDeAtribuicao.csproj|solutionrelative:operadoresdeatribuicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\Curso-C-Sharp\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresDeAtribuicao\\Program.cs",
+              "ToolTip": "D:\\My Projects\\Curso-C-Sharp\\OperadoresDeAtribuicao\\OperadoresDeAtribuicao\\Program.cs",
+              "RelativeToolTip": "OperadoresDeAtribuicao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:22:56.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

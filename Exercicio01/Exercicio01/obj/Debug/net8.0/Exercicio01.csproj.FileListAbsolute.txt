@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.exe
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.deps.json
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.dll
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\bin\Debug\net8.0\Exercicio01.pdb
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.sourcelink.json
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.dll
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\refint\Exercicio01.dll
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.pdb
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\Exercicio01.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\Exercicio01\Exercicio01\obj\Debug\net8.0\ref\Exercicio01.dll

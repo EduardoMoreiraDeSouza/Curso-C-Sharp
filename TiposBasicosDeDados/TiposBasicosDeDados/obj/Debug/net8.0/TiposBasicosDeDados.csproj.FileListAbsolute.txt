@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net8.0\TiposBasicosDeDados.exe
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net8.0\TiposBasicosDeDados.deps.json
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net8.0\TiposBasicosDeDados.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net8.0\TiposBasicosDeDados.dll
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\bin\Debug\net8.0\TiposBasicosDeDados.pdb
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.sourcelink.json
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.dll
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\refint\TiposBasicosDeDados.dll
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.pdb
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\TiposBasicosDeDados.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\TiposBasicosDeDados\TiposBasicosDeDados\obj\Debug\net8.0\ref\TiposBasicosDeDados.dll

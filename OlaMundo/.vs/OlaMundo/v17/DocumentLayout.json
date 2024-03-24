@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\Curso-C-Sharp\\OlaMundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C620DC47-FA51-4539-9DA9-3F2C6CE33831}|OlaMundo\\OlaMundo.csproj|d:\\my projects\\curso-c-sharp\\olamundo\\olamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C620DC47-FA51-4539-9DA9-3F2C6CE33831}|OlaMundo\\OlaMundo.csproj|solutionrelative:olamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\Curso-C-Sharp\\OlaMundo\\OlaMundo\\Program.cs",
+              "RelativeDocumentMoniker": "OlaMundo\\Program.cs",
+              "ToolTip": "D:\\My Projects\\Curso-C-Sharp\\OlaMundo\\OlaMundo\\Program.cs",
+              "RelativeToolTip": "OlaMundo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:07:20.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
