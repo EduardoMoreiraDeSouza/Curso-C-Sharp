@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.exe
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.deps.json
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.dll
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\bin\Debug\net8.0\Exercicio02.pdb
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.sourcelink.json
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.dll
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\refint\Exercicio02.dll
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.pdb
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\Exercicio02.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\Exercicio02\Exercicio02\obj\Debug\net8.0\ref\Exercicio02.dll

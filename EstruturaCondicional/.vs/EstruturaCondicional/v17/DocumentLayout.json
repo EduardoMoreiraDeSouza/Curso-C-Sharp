@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\Curso-C-Sharp\\EstruturaCondicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27547951-2D76-474B-B8D1-9C3A69085BF2}|EstruturaCondicional\\EstruturaCondicional.csproj|d:\\my projects\\curso-c-sharp\\estruturacondicional\\estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27547951-2D76-474B-B8D1-9C3A69085BF2}|EstruturaCondicional\\EstruturaCondicional.csproj|solutionrelative:estruturacondicional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\Curso-C-Sharp\\EstruturaCondicional\\EstruturaCondicional\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturaCondicional\\Program.cs",
+              "ToolTip": "D:\\My Projects\\Curso-C-Sharp\\EstruturaCondicional\\EstruturaCondicional\\Program.cs",
+              "RelativeToolTip": "EstruturaCondicional\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:02:21.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

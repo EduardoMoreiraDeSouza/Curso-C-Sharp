@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.sourcelink.json
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\OperadoresLogicos\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll
