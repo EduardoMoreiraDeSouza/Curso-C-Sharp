@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\bin\Debug\net8.0\ResolvendoUmProblemaComOO.exe
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\bin\Debug\net8.0\ResolvendoUmProblemaComOO.deps.json
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\bin\Debug\net8.0\ResolvendoUmProblemaComOO.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\bin\Debug\net8.0\ResolvendoUmProblemaComOO.dll
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\bin\Debug\net8.0\ResolvendoUmProblemaComOO.pdb
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.sourcelink.json
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.dll
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\refint\ResolvendoUmProblemaComOO.dll
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.pdb
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ResolvendoUmProblemaComOO.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaComOO\ResolvendoUmProblemaComOO\obj\Debug\net8.0\ref\ResolvendoUmProblemaComOO.dll

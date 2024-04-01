@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\bin\Debug\net8.0\DebuggingComVisualStudio.exe
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\bin\Debug\net8.0\DebuggingComVisualStudio.deps.json
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\bin\Debug\net8.0\DebuggingComVisualStudio.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\bin\Debug\net8.0\DebuggingComVisualStudio.dll
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\bin\Debug\net8.0\DebuggingComVisualStudio.pdb
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.sourcelink.json
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.dll
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\refint\DebuggingComVisualStudio.dll
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.pdb
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\DebuggingComVisualStudio.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\DebuggingComVisualStudio\DebuggingComVisualStudio\obj\Debug\net8.0\ref\DebuggingComVisualStudio.dll

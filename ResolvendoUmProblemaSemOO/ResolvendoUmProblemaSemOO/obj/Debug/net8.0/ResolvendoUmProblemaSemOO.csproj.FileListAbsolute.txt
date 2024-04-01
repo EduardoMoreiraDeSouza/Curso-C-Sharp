@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\bin\Debug\net8.0\ResolvendoUmProblemaSemOO.exe
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\bin\Debug\net8.0\ResolvendoUmProblemaSemOO.deps.json
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\bin\Debug\net8.0\ResolvendoUmProblemaSemOO.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\bin\Debug\net8.0\ResolvendoUmProblemaSemOO.dll
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\bin\Debug\net8.0\ResolvendoUmProblemaSemOO.pdb
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.sourcelink.json
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.dll
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\refint\ResolvendoUmProblemaSemOO.dll
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.pdb
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ResolvendoUmProblemaSemOO.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\ResolvendoUmProblemaSemOO\ResolvendoUmProblemaSemOO\obj\Debug\net8.0\ref\ResolvendoUmProblemaSemOO.dll

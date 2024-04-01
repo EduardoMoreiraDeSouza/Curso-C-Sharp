@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.exe
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.dll
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.sourcelink.json
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.dll
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\Funcoes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll

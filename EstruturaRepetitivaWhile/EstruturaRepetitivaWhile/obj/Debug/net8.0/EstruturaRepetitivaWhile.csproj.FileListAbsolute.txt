@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net8.0\EstruturaRepetitivaWhile.exe
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net8.0\EstruturaRepetitivaWhile.deps.json
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net8.0\EstruturaRepetitivaWhile.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net8.0\EstruturaRepetitivaWhile.dll
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\net8.0\EstruturaRepetitivaWhile.pdb
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.sourcelink.json
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.dll
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\refint\EstruturaRepetitivaWhile.dll
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.pdb
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\EstruturaRepetitivaWhile.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\net8.0\ref\EstruturaRepetitivaWhile.dll

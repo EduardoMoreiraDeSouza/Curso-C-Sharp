@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net8.0\EstruturaRepetitivaFor.exe
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net8.0\EstruturaRepetitivaFor.deps.json
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net8.0\EstruturaRepetitivaFor.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net8.0\EstruturaRepetitivaFor.dll
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\bin\Debug\net8.0\EstruturaRepetitivaFor.pdb
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.sourcelink.json
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.dll
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\refint\EstruturaRepetitivaFor.dll
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.pdb
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\EstruturaRepetitivaFor.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\EstruturaRepetitivaFor\EstruturaRepetitivaFor\obj\Debug\net8.0\ref\EstruturaRepetitivaFor.dll
