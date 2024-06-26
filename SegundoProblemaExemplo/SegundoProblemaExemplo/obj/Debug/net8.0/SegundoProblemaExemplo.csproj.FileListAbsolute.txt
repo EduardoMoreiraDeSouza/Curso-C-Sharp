@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.exe
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.deps.json
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.dll
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net8.0\SegundoProblemaExemplo.pdb
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.sourcelink.json
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.dll
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\refint\SegundoProblemaExemplo.dll
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.pdb
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\SegundoProblemaExemplo.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net8.0\ref\SegundoProblemaExemplo.dll

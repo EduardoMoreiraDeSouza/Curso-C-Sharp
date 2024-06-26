@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\Curso-C-Sharp\\Construtores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B120074-12FC-4AE3-A071-E875E3D39DC2}|Construtores\\Construtores.csproj|d:\\my projects\\curso-c-sharp\\construtores\\construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B120074-12FC-4AE3-A071-E875E3D39DC2}|Construtores\\Construtores.csproj|solutionrelative:construtores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B120074-12FC-4AE3-A071-E875E3D39DC2}|Construtores\\Construtores.csproj|d:\\my projects\\curso-c-sharp\\construtores\\construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B120074-12FC-4AE3-A071-E875E3D39DC2}|Construtores\\Construtores.csproj|solutionrelative:construtores\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\My Projects\\Curso-C-Sharp\\Construtores\\Construtores\\Produto.cs",
+              "RelativeDocumentMoniker": "Construtores\\Produto.cs",
+              "ToolTip": "D:\\My Projects\\Curso-C-Sharp\\Construtores\\Construtores\\Produto.cs",
+              "RelativeToolTip": "Construtores\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:37:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\Curso-C-Sharp\\Construtores\\Construtores\\Program.cs",
+              "RelativeDocumentMoniker": "Construtores\\Program.cs",
+              "ToolTip": "D:\\My Projects\\Curso-C-Sharp\\Construtores\\Construtores\\Program.cs",
+              "RelativeToolTip": "Construtores\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:31:43.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

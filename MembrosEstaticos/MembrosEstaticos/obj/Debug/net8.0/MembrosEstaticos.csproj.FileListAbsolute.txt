@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.sourcelink.json
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\MembrosEstaticos\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll

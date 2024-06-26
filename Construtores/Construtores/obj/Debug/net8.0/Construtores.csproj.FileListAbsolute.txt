@@ -1,0 +1,15 @@
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\bin\Debug\net8.0\Construtores.exe
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\bin\Debug\net8.0\Construtores.deps.json
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\bin\Debug\net8.0\Construtores.dll
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\bin\Debug\net8.0\Construtores.pdb
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.sourcelink.json
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.dll
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.pdb
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+D:\My Projects\Curso-C-Sharp\Construtores\Construtores\obj\Debug\net8.0\ref\Construtores.dll
